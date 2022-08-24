@@ -37,7 +37,9 @@ define a altura do título principal
  
 }
 h2{
-    Color:   #D02C0F
+    Color:   #D02C0F;
+    font-style:italic;
+    font-size: 60px;
  <!---
 define a cor do segundo título
 --->
